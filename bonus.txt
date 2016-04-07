@@ -1,0 +1,11 @@
+
+
+
+If i have to add/modify the features of the project, i would do the following
+
+1. add a search functionality to search for already existing foods
+   because the database of food can have many records
+   
+   
+2. add more details for the food like the images, description of the       food as it would be more readable and always better to have more    details
+ 
